@@ -1,4 +1,9 @@
+body {
+	background-color: beige;
+}
+
 p {
 	color: blue;
 	font-size: 30px;
+	
 }
